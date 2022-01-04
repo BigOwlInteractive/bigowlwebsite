@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "About Us"
-permalink: /about/
+title: "Projects"
+permalink: /projects/
+header: /assets/images/discord_logo.png
 ---
 
 gabagool
