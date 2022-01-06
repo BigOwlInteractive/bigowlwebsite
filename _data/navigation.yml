@@ -1,0 +1,10 @@
+pages:
+
+  -  title: Projects
+     url: https://bigowl.net/projects/
+     
+  -  title: About Us
+     url: https://bigowl.net/about/
+     
+  -  title: Contact Us
+     url: https://bigowl.net/contact/
