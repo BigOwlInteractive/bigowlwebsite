@@ -51,3 +51,12 @@ _Meet the members of our team below:_
 	Kevin Im is an aspiring game designer from Los Angeles, California, focusing on music composition and programming. He majors in computer science at Yale University, and spends most of his free time playing indie games or writing music. His favorite games include OMORI, Hollow Knight, and the Persona series.
 
 </div>
+
+## Ethan Deaton
+#### Head Writer
+
+<div class="w3-container">
+	<img src="/assets/images/EthanDeaton.jpg"  width="20%" height="20%" align = "right" style = "padding: 0px 0px 0px 10px"/>
+	"I'm the head writer, and the head blacksmith, and the company educator, and the company reeducator, and the biggest guy."
+
+</div>
