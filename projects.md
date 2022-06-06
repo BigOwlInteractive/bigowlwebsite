@@ -11,7 +11,13 @@ Re:Wire is a Sci-Fi puzzle game, with 20 hand-created levels based around the co
 
 This game is currently under development.
 
+## Aether Wars
 
+Aether Wars is Big Owl's initial foray into the world of tabletop gaming. Players will command small Aetherite harvesting crews vying for resources and control in the magically rich wasteland of Unia, claiming victory by quickly collecting more Aetherite powered relics than their opponent and escaping, or by eliminating their opponent entirely.  
+
+Collectible miniature games often fall victim to high buy-in costs, confusing and expensive rulebooks, and dramatic learning curves. With Aether Wars we intend to deliver a streamlined and easy to understand ruleset, and leverage the spread of 3d printing to provide STL files for players to download and print. As a miniature-agnostic game, Aether Wars will have minimal cost of entry for both new and veteran players of tabletop gaming. 
+
+This game is currently under development.
 
 ## Superpowers
 
