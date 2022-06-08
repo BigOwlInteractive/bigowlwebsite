@@ -7,7 +7,7 @@ header: /assets/images/discord_logo.png
 
 ## Re:Wire
 
-Re:Wire is a Sci-Fi puzzle game, with 20 hand-created levels based around the correct placement of a series of wires in an electrical circuit. The player must navigate complex obstacles and level layouts in order to complete the circuits and advance. Unusual for a puzzle game, Re:Wire features an compelling, in-depth narrative. Players can experience both the engaging mechanics and the complicated world that Re:Wire inhabits.
+Re:Wire is a Sci-Fi puzzle game, with 20 hand-created levels based around the correct placement of a series of wires in an electrical circuit. The player must navigate complex obstacles and level layouts in order to complete the circuits and advance. Unusual for a puzzle game, Re:Wire features a compelling, in-depth narrative. Players can experience both the engaging mechanics and the complicated world that Re:Wire inhabits.
 
 This game is currently under development.
 
